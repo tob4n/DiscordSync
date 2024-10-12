@@ -31,6 +31,6 @@ For larger servers that want a cetralized storage solution.
 ##### Thanks to the following projects for making this plugin possible:
 - [PaperMC](https://papermc.io/software/paper)
 - [JDA](https://github.com/discord-jda/JDA)
-##### Inspiration was drawn from the following projects:
+##### Inspired by following projects:
 - [DiscordSRV](https://github.com/DiscordSRV/DiscordSRV)
 - [AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded)
